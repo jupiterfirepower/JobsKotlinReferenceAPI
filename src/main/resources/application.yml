@@ -1,0 +1,6 @@
+config:
+  datasource:
+    jdbc:
+      url: "jdbc:postgresql://localhost:5432/jobs_db1"
+    username: "admin"
+    password: "newpwd"

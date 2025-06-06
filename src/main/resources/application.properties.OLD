@@ -1,0 +1,4 @@
+quarkus.datasource.db-kind=postgresql
+quarkus.datasource.username=quarkus_test
+quarkus.datasource.password=quarkus_test
+quarkus.datasource.reactive.url=jdbc:postgresql://localhost:5432/jobs_db
